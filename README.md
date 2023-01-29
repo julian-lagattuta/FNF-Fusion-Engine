@@ -1,9 +1,10 @@
-# **Fusion Engine** is a modding engine that **combines the ease of modding with Modding Plus and the luxuries of Kade Engine. No need for compiling!**.
+# 12,500 downloads, tens of millions social media views, hundreds of thousands of people have played mods built with Fusion Engine. Enables musicians and artists who do not know how to program, to create their own music and artwork (“mods”) for the game Friday Night Funkin’ (FNF), by fusing two existing mod engines into one.
+
+## **Fusion Engine** is a modding engine that **combines the ease of modding with Modding Plus and the luxuries of Kade Engine. No need for compiling!**.
 
 ![OG Fusion Engine logo](https://raw.githubusercontent.com/kidsfreej/FNF-Fusion-Engine/master/art/fusion_engine.png)
 
 
-https://discord.gg/qPfxxd4XWA
 # If you make a mod, please credit me on the gamebanana or github page!! Also credit kidsfreej!
 # Friday Night Funkin': Better Fusion Engine Beta
 
